@@ -1,3 +1,7 @@
+* Add Nuget Package *
+- Microsoft.EntityFrameworkCore.Design
+- Microsoft.EntityFrameworkCore.SqlServer
+
 To make new MVC project
 ```dotnet new mvc ```
 
