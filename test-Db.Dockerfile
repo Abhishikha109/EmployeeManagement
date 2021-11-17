@@ -1,6 +1,6 @@
 FROM mcr.microsoft.com/mssql/server:2017-latest-ubuntu
 
-ENV MSSQL_SA_PASSWORD=Passw@rd
+ENV MSSQL_SA_PASSWORD=Passw@r@d
 ENV ACCEPT_EULA=true
 ENV MSSQL_PID=Express
 
